@@ -1,6 +1,6 @@
 ---
 title: "Industrial Co-Advisor"
-collection: teaching
+collection: mentoring
 type: "Graduate Mentoring"
 permalink: /teaching/2023-industrial-co-advisor
 venue: "Shanghai United Imaging Healthcare/Shanghai Jiaotong University School of Biomedical Engineering Joint Program"
