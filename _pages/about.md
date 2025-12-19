@@ -10,6 +10,13 @@ redirect_from:
 I am currently an Assistant Professor in the [School of Biomedical Engineering](https://med.szu.edu.cn/en/academics/departments/content_546) at [Shenzhen University](https://en.szu.edu.cn/). My research interests focus on medical image processing, along with machine learning and deep learning for biomedical and healthcare applications - encompassing multi-modal biomedical data fusion, multi-modal large models, and their utility in computer-aided diagnosis and precision medicine.
 
 
+Research Interest 
+======
+* Medical image processing
+* Machine learning and deep learning for biomedical and healthcare applications, especially focused in multi-modal biomedical data fusion for precision medicine
+* Large language models and multi-modal vision lanauge models
+
+
 Selected Peer-reviewed Publications
 ======
 1. Tong, L., Shi, W., Isgut, M., Zhong, Y., Lais, P., Gloster, L., ... & Wang, M. D. (2023). Integrating multi-omics data with EHR for precision medicine using advanced artificial intelligence. IEEE Reviews in Biomedical Engineering, 17, 80-97.
