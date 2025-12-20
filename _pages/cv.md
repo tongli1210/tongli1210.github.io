@@ -116,9 +116,22 @@ Selected Patents
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* Industrial Co-Advisor, Shanghai United Imaging Healthcare/Shanghai Jiaotong University Joint Program, Shanghai, China, 2023 – 2025
+  * Master Student: Sifan Wu (Co-advised with Prof. Yiping Du)
+  * Master Student: Cui Ya (Co-advised with Prof. Jie Luo)
+  * PhD Student: Tian Zeng (Co-advised with Prof. Hongjiang Wei)
+  * PhD Student: Weitao Zu (Co-advised with Prof. Cheng Jin)
+
+* Project Mentor, Bio-MIBLab, Georgia Institute of Technology and Emory University, Atlanta, GA, USA, 2015 - 2020
+  * Mentored multiple junior PhD students, two Master students, and seven undergraduate students.
+
+* Graduate Teaching Assistant, BME, Georgia Institute of Technology and Emory University, Atlanta, GA, USA, 2015 - 2020 
+  * Facilitated “BMED6780/ECE6780/BMED4783/ECE4783 Medical Image Processing” (undergraduate and graduate level): giving guest lectures, leading discussion sessions, and mentoring course projects.
+  * Facilitated “BMED 2210 Conservation Principles in Biomedical Engineering” (undergraduate level): giving guest lectures and leading discussion sessions.
+  * Facilitated “BMED 8813 Biomedical and Health Informatics” (graduate level): giving guest lectures, leading discussion sessions, and mentoring course projects.
 
 Honors and Awards
 ======
