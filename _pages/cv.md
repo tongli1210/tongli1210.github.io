@@ -45,7 +45,7 @@ Work Experience
     * Designed a whole-slide imaging (WSI) classification pipeline for heart rejection diagnosis.
     * Developed a multi-scale convolutional network for improved classification by utilizing image pyramid of WSI.
 
-* Summer 2018 & 2019: Intern Engineer (Medical Imaging Analysis/Machine Learning)
+* Summer 2018 & 2019: Summer Intern (Medical Imaging Analysis/Machine Learning)
   * Intuitive Surgical, Inc, Sunnyvale, CA, USA
   * Deep Learning based CT Images Segmentation for Lung Blood Vessels(May 2019 - Aug 2019)
     * Implemented a 3D U-Net model for volumetric medical image segmentation.
@@ -56,9 +56,50 @@ Work Experience
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+## Journal Publications
+1. **Tong L**, Shi W, Isgut M, Zhong Y, Lais P, Gloster L, Sun J, Swain A, Giuste FO, and Wang MD. “Integrating multi-omics data with EHR for precision medicine using advanced artificial intelligence.” *IEEE Reviews in Biomedical Engineering.* 2023 Oct 12;17:80-97.
+2. **Tong L**, Wu H, Wang MD, Wang G. “Introduction of medical genomics and clinical informatics integration for p-Health care.” *Progress in molecular biology and translational science.* 2022 Jan 1;190(1):1-37.
+3. **Tong L**, Mitchel J, Chatlin K, and Wang MD. “Deep Learning based Feature-Level Integration of Multi-Omics Data for Breast Cancer Patients Survival Analysis.” *BMC Medical Informatics and Decision Making.* 2020 Sep 15;20(1):225.
+4. **Tong L**, Wu H, and Wang MD. “Integrating Multi-Omics Data by Learning Modality Invariant Representations for Improved Prediction of Overall Survival of Cancer.” *Methods.* 2021 May 1;189:74-85.
+5. **Tong L**, Wu H, and Wang MD. “CAESNet: Convolutional AutoEncoder based Semi-supervised Network for Improving Multi-class Classification of Endomicroscopic Images.” *Journal of American Medical Informatics Association.* 2019 Nov;26(11):1286-96.
+6. **Tong L***, Wu PY*, Phan JH* (equal contribution first authors), Hassanzadeh HR, SEQC Consortium, Tong WD, and Wang MD. “Impact of RNA-seq Data Analysis Algorithms on Gene Expression Estimation and Downstream Prediction.” *Scientific Reports.* 2020 Oct 21;10(1):1-20.
+7. Wu S, She H, Wang Z, **Tong L**, Wang Z, Du YP. Real‐Time Phase‐Contrast Cardiovascular MRI Using a Deep Learning Reconstruction Network With Combined Dictionary Learning and CNN. *Magnetic Resonance in Medicine.* 2025 Oct 17.
+8. Venugopalan J, **Tong L**, Hassanzadeh H, and Wang MD. “Multimodal Deep Learning Models for Early Detection of Alzheimer's Disease Stage.” *Scientific Reports.* 2021 Feb 5;11(1):1-3.
+9. Choudhary A*, **Tong L*** (equal contribution first authors), Zhu Y, Wang MD. “Advancing Medical Imaging Informatics by Deep Learning-Based Domain Adaptation.” *Yearbook of Medical Informatics.* 2020 Aug;29(01):129-38.
+10. Wu H, Zhu Y, Shi W, **Tong L**, and Wang MD, “Fairness Artificial Intelligence in Clinical Decision Support: Mitigating Effect of Health Disparity.” *IEEE Journal of Biomedical and Health Informatics*, 2024 Dec. 9.
+11. Giuste FO, Sequeira R, Keerthipati V, Lais P, Mirzazadeh A, Mohseni A, Zhu Y, Shi W, Marteau B, Zhong Y, **Tong L**, Das B, Shehata B, Deshpande S, and Wang MD. “Explainable synthetic image generation to improve risk assessment of rare pediatric heart transplant rejection.” *Journal of biomedical informatics.* 2023 Mar 1;139:104303.
+12. Giuste FO, Shi W, Zhu Y, Naren T, Isgut M, Sha Y, **Tong L**, Gupte M, Wang MD. “Explainable artificial intelligence methods in combating pandemics: A systematic review.” *IEEE Reviews in Biomedical Engineering.* 2022 Jun 23;16:5-21.
+13. Anklam E, Bahl MI, Ball R, Beger RD, Cohen J, Fitzpatrick S, Girard P, Halamoda-Kenzaoui B, Hinton D, Tagle D, **Tong L**, Tong W, and Wang MD. “Emerging technologies and their impact on regulatory science.” *Experimental Biology and Medicine.* 2022 Jan;247(1):1-75.
+14. Shi W, **Tong L**, and Wang MD. “COVID-19 Automatic Diagnosis with Radiographic Imaging: Explainable Attention Transfer Deep Neural Networks.” *IEEE Journal of Biomedical and Health Informatics.* 2021 Apr; 25 (7): 2376–87.
+15. Littman AR, Janssen KM, **Tong L**, Wu H, Wang MD, Blum E, and Kirsch AJ. “Did COVID-19 Affect Time to Presentation in the Setting of Pediatric Testicular Torsion?” *Pediatric Emergency Care.* 2021 Feb;37(2):123.
+16. Zhang Y, Wu H, Liu H, **Tong L**, and Wang MD. “Mitigating the Effect of Dataset Bias on Training Deep Models for Chest X-rays.” arXiv preprint arXiv:1910.06745 (2019).
+
+## Conference Publications
+1. **Tong L**, Wang P, Zhu L, Qin S, and Wang Z. “A deep-learning-based framework for spark artifacts detection and correction.” *2024 ISMRM \& ISMRT Annual Meeting \& Exhibition.* May 4-9, 2024. Singapore.
+2. **Tong L**, Wang P, and Wang Z. “A deep-learning-based Signal-to-Noise Ratio (SNR) adaptive uniformity correction method.” *2024 ISMRM \& ISMRT Annual Meeting \& Exhibition.* May 4-9, 2024. Singapore.
+3. **Tong L**, Sha Y, and Wang MD. “Improving Classification of Breast Cancer by Utilizing the Image Pyramids of Whole-Slide Imaging and Multi-Scale Convolutional Neural Networks.” *Conf Proc IEEE Computer Society Signature Conference on Computers, Software and Applications (COMPSAC).* Milwaukee, Wisconsin, USA. July 15-19, 2019. Vol. 1, pp. 696-703.
+4. **Tong L**, Hoffman RA, Deshpande SR, and Wang MD. “Predicting Heart Rejection Using Histopathological Whole-Slide Imaging and Deep Neural Network with Dropout.” *Conf Proc IEEE EMBS Biomed Health Inform, BHI.* Orlando, FL, USA. 2017 Feb. 16-19. pp. 1-4.
+5. **Tong L**, Yang C, Wu PY and Wang MD. “Evaluating the impact of sequencing error correction for RNA-seq data with ERCC RNA spike-in controls.” *Conf Proc IEEE EMBS Biomed Health Inform, BHI.* Las Vegas, NV, USA. 2016 Feb. 24; 74-77.
+6. Cui Y, Qi H, Zhang Z, Zhang H, Yuan S, Cai B, Li J, Zhang M, Wang Z, **Tong L**, and Luo J. “DTI with minimal data: image translation based distortion correction and FA map generation for clinical efficiency.” *2025 ISMRM \& ISMRT Annual Meeting \& Exhibition.* May 10-15, 2025, Honolulu, Hawaii, USA.
+7. Wu S, She H, Wang Z, **Tong L**, Wang Z, and Du Y. “Accelerated Free-Breathing Phase Contrast Cardiovascular MRI using Spatial-Temporal Dictionary Learning Neural Network.” *Proceedings of the 2024 9th International Conference on Biomedical Signal and Image Processing.* pp. 29-33.
+8. Wang C, Chen J, Zhang X, **Tong L**, and Yang Y. “MRI proton density fat fraction (PDFF) optimization for bone marrow protection in RT.” *2024 AAPM 66th Annual Meeting \& Exhibition.* July 21-25, 2024. Los Angeles, CA, USA.
+9. Cui Y, Yuan S, Wang Z, **Tong L**, and Luo J. “A multi-contrast translation-based registration approach for distortion correction in DTI.” *2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).* July 15-19, 2024. Orlando, FL, USA.
+10. Patil SM, **Tong L**, and Wang MD. “Generating Region of Interests for Invasive Breast Cancer in Histopathological Whole-Slide-Image.” *2020 IEEE Computer Society Signature Conference on Computers, Software and Applications (COMPSAC).* Madrid, Spain. pp. 732-728.
+11. Giuste FO, Venkatesan M, Zhao C, **Tong L**, Zhu Y, Deshpande S, and Wang MD. “Automated Classification of Acute Rejection from Endomyocardial Biopsies.” *The 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).* pp. 1-9.
+12. Shi W, **Tong L**, Zhuang Y, Zhu Y and Wang MD. “EXAM: An Explainable Attention-based Model for COVID-19 Automatic Diagnosis.” *The 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).* pp. 1-6.
+13. Jiang Y, Alford K, Ketchum F, **Tong L**, and Wang MD. “TLSurv: Integrating Multi-Omics Data by Multi-Stage Transfer Learning for Cancer Survival Prediction.” *The 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).* pp. 1-10.
+14. Mitchel J, Chatlin K, **Tong L**, and Wang MD. “A Translational Pipeline for Overall Survival Prediction of Breast Cancer Patients by Decision-Level Integration of Multi-Omics Data.” *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019).* November 18-21, 2019. San Diego, CA, USA. pp. 1573-1580.
+15. Choudhary A, Wu H, **Tong L**, and Wang MD. “Learning to Evaluate Color Similarity for Histopathology Images Using Triplet Networks.” *The 10th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).* Niagara Falls, NY, Sept 7-10, 2019. pp. 466-474.
+16. Vizcarra J, Place R, **Tong L**, Gutman D and Wang MD. “Fusion in Breast Cancer Histology Classification.” *The 10th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB).* Niagara Falls, NY, Sept 7-10, 2019. pp. 485-493.
+17. Zhu Y, **Tong L**, and Wang MD. “Improved Prediction on Heart Transplant Rejection Using Convolutional Autoencoder and Multiple Instance Learning on Whole-Slide Imaging.” *2019 IEEE EMBS International Conference on Biomedical \& Health Informatics (BHI).* Chicago, IL, USA. May 2019. pp. 1-4.
+18. Dooley AE, **Tong L**, and Wang MD. “Prediction of Heart Transplant Rejection Using Histopathological Whole-Slide Imaging.” *Conf Proc IEEE EMBS Biomed Health Inform, BHI.* Las Vegas, NV, USA. 2018 Mar. 4-7; 251-254.
+19. Wu H, **Tong L**, and Wang MD. “Improving Multi-class Classification for Endomicroscopic Images by Semi-supervised Learning.” *Conf Proc IEEE EMBS Biomed Health Inform, BHI.* Orlando, FL, USA. 2017 Feb. 16-19. pp. 5-8.
+20. Kothari S, Wu H, **Tong L**, Woods KE, and Wang MD. “Automated Prediction for Esophageal Optical Endomicroscopic Images.” *Conf Proc IEEE EMBS Biomed Health Inform, BHI.* Las Vegas, NV, USA. 2016 Feb. 24; 160-163.
+21. Yang C, Wu PY, **Tong L**, Phan JH and Wang MD. “The impact of RNA-seq aligners on gene expression estimation.” *ACM Conference on Bioinformatics, Computational Biology and Health Informatics (ACM BCB)*. Atlanta, GA, USA. 2015 Sept. 9; 462-471.
+
   
 <!-- Talks
 ======
@@ -68,10 +109,10 @@ Publications
 
 Selected Patents
 ======
-1. Tong L. Systems and methods for signal processing. US20240046469A1. 2024-02-08.
-2. Tong L, Sun T, and Xin Y. Calibration methods and systems for medical imaging. US20230181146A1. 2023-06-15.
-3. Tong L, Sun T, and Xin Y. Method and device for water-fat separation of image, computer apparatus, and computer-readable storage medium. US20230384407A1. 2023-11-30.
-4. Sun T, Tong L, Lu H, and Hu K. Coil fault detection methods and systems. EP4329603A1. 2024-03-06.
+1. **Tong L**. Systems and methods for signal processing. US20240046469A1. 2024-02-08.
+2. **Tong L**, Sun T, and Xin Y. Calibration methods and systems for medical imaging. US20230181146A1. 2023-06-15.
+3. **Tong L**, Sun T, and Xin Y. Method and device for water-fat separation of image, computer apparatus, and computer-readable storage medium. US20230384407A1. 2023-11-30.
+4. Sun T, **Tong L**, Lu H, and Hu K. Coil fault detection methods and systems. EP4329603A1. 2024-03-06.
 
 Teaching
 ======
