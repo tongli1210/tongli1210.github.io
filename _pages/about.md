@@ -14,7 +14,7 @@ Research Interest
 ======
 * Medical image processing
 * Machine learning and deep learning for biomedical and healthcare applications, especially focused in multi-modal biomedical data fusion for precision medicine
-* Large language models and multi-modal vision lanauge models
+* Large language models and multi-modal vision language models in medicine
 
 
 Selected Peer-reviewed Publications

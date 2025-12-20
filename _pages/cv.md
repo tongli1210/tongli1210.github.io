@@ -24,7 +24,7 @@ Work Experience
   * Research Interest:  
       * Medical image processing
       * Machine learning and deep learning for biomedical and healthcare applications, especially focused in multi-modal biomedical data fusion for precision medicine
-      * Large language models and multi-modal vision lanauge models 
+      * Large language models and multi-modal vision language models in medicine
 
 * Aug. 2021 - Nov. 2025: Staff Engineer (Medical Imaging Analysis/Machine Learning)
   * Shanghai United Imaging Healthcare Co., Ltd., Shanghai, China
