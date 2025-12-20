@@ -56,9 +56,6 @@ Work Experience
   
 Publications
 ======
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 ## Journal Publications
 1. **Tong L**, Shi W, Isgut M, Zhong Y, Lais P, Gloster L, Sun J, Swain A, Giuste FO, and Wang MD. “Integrating multi-omics data with EHR for precision medicine using advanced artificial intelligence.” *IEEE Reviews in Biomedical Engineering.* 2023 Oct 12;17:80-97.
 2. **Tong L**, Wu H, Wang MD, Wang G. “Introduction of medical genomics and clinical informatics integration for p-Health care.” *Progress in molecular biology and translational science.* 2022 Jan 1;190(1):1-37.
@@ -116,9 +113,6 @@ Selected Patents
 
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 * Industrial Co-Advisor, Shanghai United Imaging Healthcare/Shanghai Jiaotong University Joint Program, Shanghai, China, 2023 – 2025
   * Master Student: Sifan Wu (Co-advised with Prof. Yiping Du)
   * Master Student: Cui Ya (Co-advised with Prof. Jie Luo)
